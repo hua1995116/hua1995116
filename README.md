@@ -14,7 +14,7 @@ Blogger, Lifelong learner.
 
 
 <p>
-    <a href="https://wangchujiang.com/">
+    <a href="https://qiufeng.blue/">
       <img src="https://github-profile-trophy.vercel.app/?username=hua1995116&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
     </a>
 </p>
