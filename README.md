@@ -7,13 +7,11 @@ I'm a three year working full stack engineer who enjoys building wheels and play
 
 Blogger, Lifelong learner. 
 
-- Read more about my [Blog](https://qiufeng.blue/)
-- Ping me by [Email](mailto:qiufenghyf@gmail.com)
-- 抖音 [@秋风的笔记](https://www.douyin.com/user/MS4wLjABAAAAcqMsKfENGwv1GEsc8eeE2paQGrbb5z5UnWb_uX7Ul9o?extra_params=%7B%22search_id%22%3A%2220210731191831010211179222561CA99C%22%2C%22search_result_id%22%3A%2251632329649%22%2C%22search_keyword%22%3A%22%E7%A7%8B%E9%A3%8E%E7%9A%84%E7%AC%94%E8%AE%B0%22%2C%22search_type%22%3A%22user%22%7D&enter_method=search_result&enter_from=search_result)
-- 快手 [@秋风的笔记](https://www.kuaishou.com/profile/3xff6mhevp6gp3m)
-- CSDN [https://blog.csdn.net/blueblueskyhua](https://blog.csdn.net/blueblueskyhua)
-- 掘金 [https://juejin.cn/user/923245497557111](https://juejin.cn/user/923245497557111)
-- 知乎 [https://www.zhihu.com/people/lan-se-89-98-69](https://www.zhihu.com/people/lan-se-89-98-69)
+- 👉 Read more about my [Blog](https://qiufeng.blue/)
+- ✉️ Ping me by [Email](mailto:qiufenghyf@gmail.com)
+- 👩🏻‍💻 My Gril: [nan980914](https://github.com/nan980914)
+- 💬 WeChat: qiufengblue
+- ⚒ More social media: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcqMsKfENGwv1GEsc8eeE2paQGrbb5z5UnWb_uX7Ul9o?extra_params=%7B%22search_id%22%3A%2220210731191831010211179222561CA99C%22%2C%22search_result_id%22%3A%2251632329649%22%2C%22search_keyword%22%3A%22%E7%A7%8B%E9%A3%8E%E7%9A%84%E7%AC%94%E8%AE%B0%22%2C%22search_type%22%3A%22user%22%7D&enter_method=search_result&enter_from=search_result) / [快手](https://www.kuaishou.com/profile/3xff6mhevp6gp3m) /  [CSDN](https://blog.csdn.net/blueblueskyhua) / [掘金](https://juejin.cn/user/923245497557111) / [知乎](https://www.zhihu.com/people/lan-se-89-98-69) / [微博](https://weibo.com/u/5342294054)
 
 <p>
     <a href="https://qiufeng.blue/">
