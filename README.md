@@ -1,13 +1,15 @@
 ### Hi I'm qiufeng 👋
 
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hua1995116&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I'm a three year working full stack engineer who enjoys building wheels and playing with some fun stuff.
+I'm a three years working full stack engineer who enjoys building wheels and playing with some fun stuff.
 
 Blogger, Lifelong learner. 
 
-- 👉 Read more about my [Blog](https://qiufeng.blue/)
+- ❤ Blogger - [qiufeng.blue](https://qiufeng.blue)
+- 📝 Founder - [mujicv.com](https://www.mujicv.com)
 - ✉️ Ping me by [Email](mailto:qiufenghyf@gmail.com)
 - 👦 My Gril: [nan980914](https://github.com/nan980914)
 - 💬 WeChat: qiufengblue
