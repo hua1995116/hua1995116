@@ -11,9 +11,8 @@ Blogger, Lifelong learner.
 - ❤ Blogger - [qiufeng.blue](https://qiufeng.blue)
 - 📝 Founder - [mujicv.com](https://www.mujicv.com)
 - ✉️ Ping me by [Email](mailto:qiufenghyf@gmail.com)
-- 👦 My Gril: [nan980914](https://github.com/nan980914)
 - 💬 WeChat: qiufengblue
-- ⚒ More social media: [即刻](https://okjk.co/CEcbno) /  [CSDN](https://blog.csdn.net/blueblueskyhua) / [掘金](https://juejin.cn/user/923245497557111) / [知乎](https://www.zhihu.com/people/lan-se-89-98-69) / [微博](https://weibo.com/u/5342294054) / [公众号: 秋风的笔记](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzkyOTIxMDAzNw==#wechat_webview_type=1&wechat_redirect)
+- ⚒ More social media: [CSDN](https://blog.csdn.net/blueblueskyhua) / [掘金](https://juejin.cn/user/923245497557111) / [知乎](https://www.zhihu.com/people/lan-se-89-98-69) / [公众号: 秋风的笔记](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzkyOTIxMDAzNw==#wechat_webview_type=1&wechat_redirect)
 
 ### Technology Stack
 
