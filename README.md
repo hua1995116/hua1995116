@@ -8,7 +8,7 @@ I'm a three years working full stack engineer who enjoys building wheels and pla
 
 Blogger, Lifelong learner. 
 
-- ❤ Blogger - [qiufeng.blue](https://qiufeng.blue)
+- 🐦 Twitter - [秋风_irwin](https://twitter.com/qiufenghyf)
 - 📝 Founder - [mujicv.com](https://www.mujicv.com)
 - ✉️ Ping me by [Email](mailto:qiufenghyf@gmail.com)
 - 💬 WeChat: qiufengblue
