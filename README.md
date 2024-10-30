@@ -1,18 +1,17 @@
-### Hi I'm qiufeng 👋
-
+### Hi I'm qiufeng, but you can also call me Irwin 👋
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hua1995116&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-I'm a three years working full stack engineer who enjoys building wheels and playing with some fun stuff.
+I'm a five years working full stack engineer who enjoys building wheels and playing with some fun stuff.
 
 Blogger, Lifelong learner. 
 
-- 🐦 Twitter - [秋风_irwin](https://twitter.com/qiufenghyf)
-- 📝 Founder - [mujicv.com](https://www.mujicv.com)
+- 🐦 Twitter/X - [秋风_irwin](https://twitter.com/qiufenghyf)
+- 📝 Founder - [mujicv.com](https://www.mujicv.com), [GoEnhance AI](https://www.goenhance.ai), [MewX AI](https://www.mewx.art)
 - ✉️ Ping me by [Email](mailto:qiufenghyf@gmail.com)
-- 💬 WeChat: qiufengblue
-- ⚒ More social media: [CSDN](https://blog.csdn.net/blueblueskyhua) / [掘金](https://juejin.cn/user/923245497557111) / [知乎](https://www.zhihu.com/people/lan-se-89-98-69) / [公众号: 秋风的笔记](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzkyOTIxMDAzNw==#wechat_webview_type=1&wechat_redirect)
+- 💬 WeChat: hyf1995116
+- ⚒ More social media: [即刻](https://okjk.co/Zo3wN7) / [CSDN](https://blog.csdn.net/blueblueskyhua) / [掘金](https://juejin.cn/user/923245497557111) / [知乎](https://www.zhihu.com/people/lan-se-89-98-69) / [公众号: 秋风的笔记](http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzkyOTIxMDAzNw==#wechat_webview_type=1&wechat_redirect)
 
 ### Technology Stack
 
